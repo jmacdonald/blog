@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://jordanmacdonald.ca/"
 languageCode = "en-us"
 title = "Jordan MacDonald"
 theme = "heather-hugo"
